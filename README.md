@@ -42,11 +42,13 @@ Desenvolver a capacidade de:
 
 ---
 
-## 📌 Referências Bibliográficas
+
+## 🏗 Organização do Repositório
+# Artigo 01 – Microsserviços
+
+Autor do artigo: Martin Fowler e James Lewis  
 
 FOWLER, Martin; LEWIS, James. *Microservices*. MartinFowler.com, 25 mar. 2014.  
 Disponível em: https://martinfowler.com/articles/microservices.html  
 
----
-
-## 🏗 Organização do Repositório
+Arquivo da resenha em PDF disponível nesta pasta.
