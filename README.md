@@ -1,12 +1,11 @@
 # 📚 Resenhas de Artigos – Projeto de Software
 
 ## 👩‍💻 Autora
-Karen Joilly  
-Curso de Engenharia de Software  
-PUC Minas – Unidade Coração Eucarístico  
+Karen Joilly Araújo Gregório de Almeida
+Curso de Engenharia de Software - PUC Minas 
 
-## 👨‍🏫 Professor
-[Nome do Professor]
+## 👨‍🏫 Professor Responsável
+João Paulo Carneiro Aramuni
 
 ---
 
