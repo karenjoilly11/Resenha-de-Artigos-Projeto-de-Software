@@ -40,6 +40,10 @@ Desenvolver a capacidade de:
 **Publicação:** MartinFowler.com (2014)  
 📎 Arquivo: `/artigo-01-microservices/Resenha_Microservices.pdf`
 
+### 3️⃣ Big Ball of Mud
+Autores: Brian Foote e Joseph Yoder
+Publicação: PLoP '97/EuroPLoP '97 (1997)
+
 ---
 
 
@@ -51,4 +55,8 @@ Autor do artigo: Martin Fowler e James Lewis
 FOWLER, Martin; LEWIS, James. *Microservices*. MartinFowler.com, 25 mar. 2014.  
 Disponível em: https://martinfowler.com/articles/microservices.html  
 
-Arquivo da resenha em PDF disponível nesta pasta.
+
+# Artigo 03 – Big Ball of Mud
+Autores: Brian Foote e Joseph Yoder
+Referência:
+FOOTE, Brian; YODER, Joseph. Big Ball of Mud. In: CONFERENCE ON PATTERN LANGUAGES OF PROGRAMS (PLoP '97/EuroPLoP '97), 4., 1997, Monticello, Illinois. Anais [...]. Monticello: Washington University, 1997. Technical Report #WUCS-97-34. Republicado em: HARRISON, Neil; FOOTE, Brian; ROHNERT, Hans (ed.). Pattern Languages of Program Design 4. Reading: Addison-Wesley, 2000. cap. 29, p. 654-692. (Software Patterns Series). Disponível em: https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/The-Big-Ball-of-Mud.pdf. Acesso em: 4 mar. 2026.
