@@ -40,6 +40,10 @@ Desenvolver a capacidade de:
 **Publicação:** MartinFowler.com (2014)  
 📎 Arquivo: `/artigo-01-microservices/Resenha_Microservices.pdf`
 
+### 2️⃣ Microsserviços (Engenharia de Software Moderna)
+Autor: Marco Tulio Valente
+Publicação: Engenharia de Software Moderna (Capítulo 7)
+
 ### 3️⃣ Big Ball of Mud
 Autores: Brian Foote e Joseph Yoder
 Publicação: PLoP '97/EuroPLoP '97 (1997)
@@ -52,12 +56,17 @@ Publicação: Communications of the ACM (1972)
 
 
 ## 🏗 Organização do Repositório
+
 # Artigo 01 – Microsserviços
 
 Autor do artigo: Martin Fowler e James Lewis  
 
 FOWLER, Martin; LEWIS, James. *Microservices*. MartinFowler.com, 25 mar. 2014.  
 Disponível em: https://martinfowler.com/articles/microservices.html  
+
+# Artigo 02 – Engenharia de Software Moderna (Microsserviços)
+
+Referência: VALENTE, Marco Tulio. Capítulo 7: Arquitetura - Microsserviços. Engenharia de Software Moderna. Disponível em: https://engsoftmoderna.info/cap7.html#microsservi%C3%A7os. Acesso em: 2 mar. 2026.
 
 
 # Artigo 03 – Big Ball of Mud
