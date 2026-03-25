@@ -44,6 +44,10 @@ Desenvolver a capacidade de:
 Autores: Brian Foote e Joseph Yoder
 Publicação: PLoP '97/EuroPLoP '97 (1997)
 
+### 4️⃣ On the Criteria To Be Used in Decomposing Systems into Modules
+Autor: David Lorge Parnas
+Publicação: Communications of the ACM (1972)
+
 ---
 
 
@@ -60,3 +64,6 @@ Disponível em: https://martinfowler.com/articles/microservices.html
 Autores: Brian Foote e Joseph Yoder
 Referência:
 FOOTE, Brian; YODER, Joseph. Big Ball of Mud. In: CONFERENCE ON PATTERN LANGUAGES OF PROGRAMS (PLoP '97/EuroPLoP '97), 4., 1997, Monticello, Illinois. Anais [...]. Monticello: Washington University, 1997. Technical Report #WUCS-97-34. Republicado em: HARRISON, Neil; FOOTE, Brian; ROHNERT, Hans (ed.). Pattern Languages of Program Design 4. Reading: Addison-Wesley, 2000. cap. 29, p. 654-692. (Software Patterns Series). Disponível em: https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/The-Big-Ball-of-Mud.pdf. Acesso em: 4 mar. 2026.
+
+# Artigo 04 – Critérios para Decomposição de Sistemas
+Referência: PARNAS, David Lorge. On the criteria to be used in decomposing systems into modules. Communications of the ACM, v. 15, n. 12, p. 1053-1058, dez. 1972. Disponível em: https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/Criteria-for-Modularization.pdf. Acesso em: 25 mar. 2026.
