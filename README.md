@@ -1,87 +1,69 @@
 # 📚 Resenhas de Artigos – Projeto de Software
 
 ## 👩‍💻 Autora
-Karen Joilly Araújo Gregório de Almeida
-Curso de Engenharia de Software - PUC Minas 
 
-## 👥 Autores
-
+<div align="center">
 
 | 👤 Nome | 🖼️ Foto | :octocat: GitHub | 💼 LinkedIn | 📤 Gmail |
-|---------|----------|-----------------|-------------|-----------|
-| Karen Joilly | <div align="center"><img src="fotokaren.JPG" width="70px" height="70px"></div> | <div align="center"><a href="https://github.com/user2"><img src="https://joaopauloaramuni.github.io/image/github6.png" width="50px" height="50px"></a></div> | <div align="center"><a href="https://www.linkedin.com/in/user2"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png" width="50px" height="50px"></a></div> | <div align="center"><a href="mailto:karenjoilly@gmail.com"><img src="https://joaopauloaramuni.github.io/image/gmail3.png" width="50px" height="50px"></a></div> |
+|:---:|:---:|:---:|:---:|:---:|
+| **Karen Joilly** | <img src="fotokaren.JPG" width="80px" style="border-radius: 50%;"> | <a href="https://github.com/vcaraujo"><img src="https://joaopauloaramuni.github.io/image/github6.png" width="40px"></a> | <a href="https://www.linkedin.com/in/karen-joilly-araujo-gregorio-de-almeida/"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png" width="40px"></a> | <a href="mailto:karenjoilly@gmail.com"><img src="https://joaopauloaramuni.github.io/image/gmail3.png" width="40px"></a> |
 
-
+</div>
 
 ## 👨‍🏫 Professor Responsável
-João Paulo Carneiro Aramuni
+**João Paulo Carneiro Aramuni** — *PUC Minas*
 
 ---
 
 ## 📖 Descrição
-
-Este repositório reúne resenhas acadêmicas desenvolvidas na disciplina de **Projeto de Software**.  
-
-O objetivo é apresentar análises críticas de artigos relevantes da área de Engenharia de Software, abordando conceitos fundamentais relacionados à arquitetura de sistemas, boas práticas de desenvolvimento, escalabilidade, manutenção e organização de equipes de software.
+Este repositório reúne resenhas acadêmicas desenvolvidas na disciplina de **Projeto de Software**. O objetivo é apresentar análises críticas de artigos relevantes da área de Engenharia de Software, abordando conceitos fundamentais relacionados à arquitetura, boas práticas, escalabilidade e manutenção de sistemas.
 
 Cada resenha contém:
-- Contextualização do artigo
-- Resumo das principais ideias
-- Análise crítica
-- Considerações sobre vantagens, limitações e aplicações práticas
+* Contextualização do artigo;
+* Resumo das principais ideias;
+* Análise crítica fundamentada;
+* Aplicações práticas e limitações.
 
 ---
 
 ## 🎯 Objetivo Acadêmico
-
-Desenvolver a capacidade de:
-- Leitura técnica e interpretação de artigos científicos
-- Análise crítica de propostas arquiteturais
-- Reflexão sobre impacto organizacional e técnico
-- Produção de texto acadêmico estruturado
+* Desenvolver leitura técnica e interpretação de artigos científicos;
+* Analisar criticamente propostas arquiteturais;
+* Refletir sobre o impacto técnico e organizacional de padrões de projeto;
+* Produzir textos acadêmicos estruturados sob normas técnicas.
 
 ---
 
 ## 📄 Artigos Resenhados
 
-### 1️⃣ Microservices  
-**Autores:** Martin Fowler e James Lewis  
-**Publicação:** MartinFowler.com (2014)  
-📎 Arquivo: `/artigo-01-microservices/Resenha_Microservices.pdf`
-
-### 2️⃣ Microsserviços (Engenharia de Software Moderna)
-Autor: Marco Tulio Valente
-Publicação: Engenharia de Software Moderna (Capítulo 7)
-
-### 3️⃣ Big Ball of Mud
-Autores: Brian Foote e Joseph Yoder
-Publicação: PLoP '97/EuroPLoP '97 (1997)
-
-### 4️⃣ On the Criteria To Be Used in Decomposing Systems into Modules
-Autor: David Lorge Parnas
-Publicação: Communications of the ACM (1972)
+| ID | Artigo | Autor(es) | Status | Link |
+|:--:|:-------|:----------|:------:|:----:|
+| 1 | **Microservices** | Fowler & Lewis | ✅ | [Visualizar](./artigo-01-microservices/Resenha_Microservices.pdf) |
+| 2 | **Eng. Software Moderna** | Marco Tulio Valente | ✅ | [Visualizar](./artigo-02-esm/Resenha_ESM.pdf) |
+| 3 | **Big Ball of Mud** | Foote & Yoder | ✅ | [Visualizar](./artigo-03-big-ball-of-mud/Resenha_BigBallOfMud.pdf) |
+| 4 | **Criteria for Modularization** | David Lorge Parnas | ✅ | [Visualizar](./artigo-04-parnas/Resenha_Parnas.pdf) |
+| 5 | **Facade Pattern** | Refactoring Guru | ✅ | [Visualizar](./artigo-05-facade/Resenha_Facade.pdf) |
 
 ---
 
+## 🏗 Referências Bibliográficas (ABNT)
 
-## 🏗 Organização do Repositório
+### 🔹 Artigo 01: Microsserviços
+FOWLER, Martin; LEWIS, James. **Microservices**. MartinFowler.com, 2014. Disponível em: [martinfowler.com](https://martinfowler.com/articles/microservices.html).
 
-# Artigo 01 – Microsserviços
+### 🔹 Artigo 02: Engenharia de Software Moderna
+VALENTE, Marco Tulio. **Engenharia de Software Moderna**. Cap. 7: Arquitetura - Microsserviços. Disponível em: [engsoftmoderna.info](https://engsoftmoderna.info/cap7.html).
 
-Autor do artigo: Martin Fowler e James Lewis  
+### 🔹 Artigo 03: Big Ball of Mud
+FOOTE, Brian; YODER, Joseph. **Big Ball of Mud**. In: PLoP '97/EuroPLoP '97. Monticello: Washington University, 1997. Disponível em: [Repositório GitHub](https://github.com/joaopauloaramuni/projeto-de-software).
 
-FOWLER, Martin; LEWIS, James. *Microservices*. MartinFowler.com, 25 mar. 2014.  
-Disponível em: https://martinfowler.com/articles/microservices.html  
+### 🔹 Artigo 04: Critérios para Decomposição de Sistemas
+PARNAS, David Lorge. **On the criteria to be used in decomposing systems into modules**. Communications of the ACM, v. 15, n. 12, 1972.
 
-# Artigo 02 – Engenharia de Software Moderna (Microsserviços)
+### 🔹 Artigo 05: Padrão de Projeto Facade
+REFACTORING GURU. **Facade**. Disponível em: [refactoring.guru](https://refactoring.guru/pt-br/design-patterns/facade). Acesso em: 25 mar. 2026.
 
-Referência: VALENTE, Marco Tulio. Capítulo 7: Arquitetura - Microsserviços. Engenharia de Software Moderna. Disponível em: https://engsoftmoderna.info/cap7.html#microsservi%C3%A7os. Acesso em: 2 mar. 2026.
-
-
-# Artigo 03 – Big Ball of Mud
-Autores: Brian Foote e Joseph Yoder
-Referência:
-FOOTE, Brian; YODER, Joseph. Big Ball of Mud. In: CONFERENCE ON PATTERN LANGUAGES OF PROGRAMS (PLoP '97/EuroPLoP '97), 4., 1997, Monticello, Illinois. Anais [...]. Monticello: Washington University, 1997. Technical Report #WUCS-97-34. Republicado em: HARRISON, Neil; FOOTE, Brian; ROHNERT, Hans (ed.). Pattern Languages of Program Design 4. Reading: Addison-Wesley, 2000. cap. 29, p. 654-692. (Software Patterns Series). Disponível em: https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/The-Big-Ball-of-Mud.pdf. Acesso em: 4 mar. 2026.
-
-# Artigo 04 – Critérios para Decomposição de Sistemas
-Referência: PARNAS, David Lorge. On the criteria to be used in decomposing systems into modules. Communications of the ACM, v. 15, n. 12, p. 1053-1058, dez. 1972. Disponível em: https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/Criteria-for-Modularization.pdf. Acesso em: 25 mar. 2026.
+---
+<div align="center">
+  <sub>Engenharia de Software - PUC Minas - 2026</sub>
+</div>
