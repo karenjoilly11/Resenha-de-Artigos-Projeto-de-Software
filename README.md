@@ -4,6 +4,15 @@
 Karen Joilly Araújo Gregório de Almeida
 Curso de Engenharia de Software - PUC Minas 
 
+## 👥 Autores
+
+
+| 👤 Nome | 🖼️ Foto | :octocat: GitHub | 💼 LinkedIn | 📤 Gmail |
+|---------|----------|-----------------|-------------|-----------|
+| Karen Joilly | <div align="center"><img src="fotokaren.JPG" width="70px" height="70px"></div> | <div align="center"><a href="https://github.com/user2"><img src="https://joaopauloaramuni.github.io/image/github6.png" width="50px" height="50px"></a></div> | <div align="center"><a href="https://www.linkedin.com/in/user2"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png" width="50px" height="50px"></a></div> | <div align="center"><a href="mailto:karenjoilly@gmail.com"><img src="https://joaopauloaramuni.github.io/image/gmail3.png" width="50px" height="50px"></a></div> |
+
+
+
 ## 👨‍🏫 Professor Responsável
 João Paulo Carneiro Aramuni
 
