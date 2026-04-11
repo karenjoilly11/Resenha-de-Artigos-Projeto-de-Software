@@ -38,12 +38,12 @@ Cada resenha contém:
 
 | ID | Artigo | Autor(es) | Status | Link |
 |:--:|:-------|:----------|:------:|:----:|
-| 1 | **Microservices** | Fowler & Lewis | ✅ | [Visualizar](./artigo-01-microservices/Resenha_Microservices.pdf) |
-| 2 | **Eng. Software Moderna** | Marco Tulio Valente | ✅ | [Visualizar](./artigo-02-esm/Resenha_ESM.pdf) |
-| 3 | **Big Ball of Mud** | Foote & Yoder | ✅ | [Visualizar](./artigo-03-big-ball-of-mud/Resenha_BigBallOfMud.pdf) |
-| 4 | **Criteria for Modularization** | David Lorge Parnas | ✅ | [Visualizar](./artigo-04-parnas/Resenha_Parnas.pdf) |
-| 5 | **Facade Pattern** | Refactoring Guru | ✅ | [Visualizar](./artigo-05-facade/Resenha_Facade.pdf) |
-
+| 1 | **Microservices** | Fowler & Lewis | ✅ | [Visualizar](./Artigo-01-Microsservicos/%E2%80%9CMicroservices%E2%80%9D%20por%20Martin%20Fowler%20e%20James%20Lewis.pdf |
+| 2 | **Eng. Software Moderna** | Marco Tulio Valente | ✅ | [Visualizar](./Artigo-02-Engenharia-de-Software-Moderna/Microsservi%C3%A7os%20(Engenharia%20de%20Software%20Moderna).pdf) |
+| 3 | **Big Ball of Mud** | Foote & Yoder | ✅ | [Visualizar](./Artigo-03-The-Big-Ball-Of-Mud/The%20Big%20Ball%20of%20Mud%20(A%20Grande%20Bola%20de%20Lama).pdf) |
+| 4 | **Criteria for Modularization** | David Lorge Parnas | ✅ | [Visualizar](./Artigo-04-On-the-Criteria-To-Be-Used-in-Decomposing-Systems-into-Modules/Resenha_Parnas.pdf) |
+| 5 | **Facade Pattern** | Refactoring Guru | ✅ | [Visualizar](./Artigo-05-Facade/Artigo%205%20-%20Facade.pdf) |
+| 6 | **Model Context Protocol (MCP)** | Hou et al. | ✅ | [Visualizar](./Artigo-06-MCP/O%20Protocolo%20de%20Contexto%20de%20Modelo%20(MCP).pdf) |
 ---
 
 ## 🏗 Referências Bibliográficas (ABNT)
@@ -62,6 +62,9 @@ PARNAS, David Lorge. **On the criteria to be used in decomposing systems into mo
 
 ### 🔹 Artigo 05: Padrão de Projeto Facade
 REFACTORING GURU. **Facade**. Disponível em: [refactoring.guru](https://refactoring.guru/pt-br/design-patterns/facade). Acesso em: 25 mar. 2026.
+
+### 🔹 Artigo 06: Protocolo de Contexto de Modelo (MCP)
+HOU, Xinyi et al. **Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions**. In: ANAIS/ PROCEEDINGS DA CONFERÊNCIA. Nova York: ACM, 2025. Disponível em: https://doi.org/10.1145/3796519. Acesso em: 10 abr. 2026.
 
 ---
 <div align="center">
