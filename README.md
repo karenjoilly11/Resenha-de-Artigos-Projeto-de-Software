@@ -6,7 +6,7 @@
 
 | 👤 Nome | 🖼️ Foto | :octocat: GitHub | 💼 LinkedIn | 📤 Gmail |
 |:---:|:---:|:---:|:---:|:---:|
-| **Karen Joilly** | <img src="./fotokaren.jpg" width="80px" style="border-radius: 50%;"> | <a href="https://github.com/vcaraujo"><img src="https://joaopauloaramuni.github.io/image/github6.png" width="40px"></a> | <a href="https://www.linkedin.com/in/karen-joilly-araujo-gregorio-de-almeida/"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png" width="40px"></a> | <a href="mailto:karenjoilly@gmail.com"><img src="https://joaopauloaramuni.github.io/image/gmail3.png" width="40px"></a> |
+| **Karen Joilly** | <img src="./assets/fotokaren.jpg" width="80px" style="border-radius: 50%;"> | <a href="https://github.com/vcaraujo"><img src="https://joaopauloaramuni.github.io/image/github6.png" width="40px"></a> | <a href="https://www.linkedin.com/in/karen-joilly-araujo-gregorio-de-almeida/"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png" width="40px"></a> | <a href="mailto:karenjoilly@gmail.com"><img src="https://joaopauloaramuni.github.io/image/gmail3.png" width="40px"></a> |
 
 </div>
 
@@ -41,7 +41,7 @@ Cada resenha contém:
 | 1 | **Microservices** | Fowler & Lewis | ✅ | [Visualizar](./Artigo-01-Microsservicos/%E2%80%9CMicroservices%E2%80%9D%20por%20Martin%20Fowler%20e%20James%20Lewis.pdf) |
 | 2 | **Eng. Software Moderna** | Marco Tulio Valente | ✅ | [Visualizar](./Artigo-02-Engenharia-de-Software-Moderna/Microsservi%C3%A7os%20(Engenharia%20de%20Software%20Moderna).pdf) |
 | 3 | **Big Ball of Mud** | Foote & Yoder | ✅ | [Visualizar](./Artigo-03-The-Big-Ball-Of-Mud/The%20Big%20Ball%20of%20Mud%20(A%20Grande%20Bola%20de%20Lama).pdf) |
-| 4 | **Criteria for Modularization** | David Lorge Parnas | ✅ | [Visualizar](./Artigo-04-On-the-Criteria-To-Be-Used-in-Decomposing-Systems-into-Modules/Resenha_Parnas.pdf) |
+| 4 | **Criteria for Modularization** | David Lorge Parnas | ✅ | [Visualizar](./Artigo-04-On-the-Criteria-To-Be-Used-in-Decomposing-Systems-into-Modules/Resenha_Parnas.jpeg) |
 | 5 | **Facade Pattern** | Refactoring Guru | ✅ | [Visualizar](./Artigo-05-Facade/Artigo%205%20-%20Facade.pdf) |
 | 6 | **Model Context Protocol (MCP)** | Hou et al. | ✅ | [Visualizar](./Artigo-06-MCP/O%20Protocolo%20de%20Contexto%20de%20Modelo%20(MCP).pdf) |
 ---
