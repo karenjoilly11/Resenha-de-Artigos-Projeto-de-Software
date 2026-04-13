@@ -44,6 +44,7 @@ Cada resenha contém:
 | 4 | **Criteria for Modularization** | David Lorge Parnas | ✅ | [Visualizar](./Artigo-04-On-the-Criteria-To-Be-Used-in-Decomposing-Systems-into-Modules/Resenha_Parnas.jpeg) |
 | 5 | **Facade Pattern** | Refactoring Guru | ✅ | [Visualizar](./Artigo-05-Facade/Artigo%205%20-%20Facade.pdf) |
 | 6 | **Model Context Protocol (MCP)** | Hou et al. | ✅ | [Visualizar](./Artigo-06-MCP/O%20Protocolo%20de%20Contexto%20de%20Modelo%20(MCP).pdf) |
+| 7 | **Software Architecture: a Roadmap** | David Garlan | ✅ | [Visualizar](./Artigo-07-Arquitetura-de-Software/Software%20Architecture%20(Arquitetura%20de%20Software).pdf) |
 ---
 
 ## 🏗 Referências Bibliográficas (ABNT)
@@ -65,6 +66,9 @@ REFACTORING GURU. **Facade**. Disponível em: [refactoring.guru](https://refacto
 
 ### 🔹 Artigo 06: Protocolo de Contexto de Modelo (MCP)
 HOU, Xinyi et al. **Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions**. In: ANAIS/ PROCEEDINGS DA CONFERÊNCIA. Nova York: ACM, 2025. Disponível em: https://doi.org/10.1145/3796519. Acesso em: 10 abr. 2026.
+
+### 🔹 Artigo 07: Software Architecture: a Roadmap
+GARLAN, David. **Software Architecture: a Roadmap**. In: INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING (ICSE), 22., 2000, Limerick. Proceedings of the Conference on the Future of Software Engineering. New York: ACM, 2000. p. 91-101. Disponível em: https://github.com/karenjoilly11/Resenha-de-Artigos-Projeto-de-Software/blob/main/Artigo-07-Arquitetura-de-Software/Software%20Architecture%20(Arquitetura%20de%20Software).pdf. Acesso em: 13 abr. 2026.
 
 ---
 <div align="center">
