@@ -68,7 +68,7 @@ REFACTORING GURU. **Facade**. Disponível em: [refactoring.guru](https://refacto
 HOU, Xinyi et al. **Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions**. In: ANAIS/ PROCEEDINGS DA CONFERÊNCIA. Nova York: ACM, 2025. Disponível em: https://doi.org/10.1145/3796519. Acesso em: 10 abr. 2026.
 
 ### 🔹 Artigo 07: Software Architecture: a Roadmap
-GARLAN, David. **Software Architecture: a Roadmap**. In: INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING (ICSE), 22., 2000, Limerick. Proceedings of the Conference on the Future of Software Engineering. New York: ACM, 2000. p. 91-101. Disponível em: [https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/Software-Architecture-A-Roadmap.pdf]. Acesso em: 13 abr. 2026.
+GARLAN, David. **Software Architecture: a Roadmap**. In: INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING (ICSE), 22., 2000, Limerick. Proceedings of the Conference on the Future of Software Engineering. New York: ACM, 2000. p. 91-101. Disponível em: https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/Software-Architecture-A-Roadmap.pdf. Acesso em: 13 abr. 2026.
 
 ---
 <div align="center">
