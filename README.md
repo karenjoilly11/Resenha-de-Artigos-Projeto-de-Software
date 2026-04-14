@@ -45,6 +45,7 @@ Cada resenha contém:
 | 5 | **Facade Pattern** | Refactoring Guru | ✅ | [Visualizar](./Artigo-05-Facade/Artigo%205%20-%20Facade.pdf) |
 | 6 | **Model Context Protocol (MCP)** | Hou et al. | ✅ | [Visualizar](./Artigo-06-MCP/O%20Protocolo%20de%20Contexto%20de%20Modelo%20(MCP).pdf) |
 | 7 | **Software Architecture: a Roadmap** | David Garlan | ✅ | [Visualizar](./Artigo-07-Arquitetura-de-Software/Software%20Architecture%20(Arquitetura%20de%20Software).pdf) |
+| 8 | **Arquitetura Hexagonal (Portas e Adaptadores)** | Alistair Cockburn | ✅ | [Visualizar](./Artigo-08-Arquitetura-Hexagonal/Arquitetura%20hexagonal%20(portas%20e%20adaptadores).pdf) |
 ---
 
 ## 🏗 Referências Bibliográficas (ABNT)
@@ -69,6 +70,9 @@ HOU, Xinyi et al. **Model Context Protocol (MCP): Landscape, Security Threats, a
 
 ### 🔹 Artigo 07: Software Architecture: a Roadmap
 GARLAN, David. **Software Architecture: a Roadmap**. In: INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING (ICSE), 22., 2000, Limerick. Proceedings of the Conference on the Future of Software Engineering. New York: ACM, 2000. p. 91-101. Disponível em: https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/Software-Architecture-A-Roadmap.pdf. Acesso em: 13 abr. 2026.
+
+### 🔹 Artigo 08: Arquitetura Hexagonal (Portas e Adaptadores)
+COCKBURN, Alistair. **Hexagonal architecture: the original 2005 article**. Humans and Technology Technical Report HaT 2005.02, 4 set. 2005. Disponível em: https://alistair.cockburn.us/hexagonal-architecture. Acesso em: 13 abr. 2026.
 
 ---
 <div align="center">
