@@ -46,6 +46,7 @@ Cada resenha contém:
 | 6 | **Model Context Protocol (MCP)** | Hou et al. | ✅ | [Visualizar](./Artigo-06-MCP/O%20Protocolo%20de%20Contexto%20de%20Modelo%20(MCP).pdf) |
 | 7 | **Software Architecture: a Roadmap** | David Garlan | ✅ | [Visualizar](./Artigo-07-Arquitetura-de-Software/Software%20Architecture%20(Arquitetura%20de%20Software).pdf) |
 | 8 | **Arquitetura Hexagonal (Portas e Adaptadores)** | Alistair Cockburn | ✅ | [Visualizar](./Artigo-08-Arquitetura-Hexagonal/Arquitetura%20hexagonal%20(portas%20e%20adaptadores).pdf) |
+| 9 | **Object Constraint Language (OCL)** | Jordi Cabot e Martin Gogolla | ✅ | [Visualizar](./Artigo-09-Object-Constraint-Language/Object%20Constraint%20Language%20a%20Definitive%20Guide.pdf) |
 ---
 
 ## 🏗 Referências Bibliográficas (ABNT)
@@ -73,6 +74,9 @@ GARLAN, David. **Software Architecture: a Roadmap**. In: INTERNATIONAL CONFERENC
 
 ### 🔹 Artigo 08: Arquitetura Hexagonal (Portas e Adaptadores)
 COCKBURN, Alistair. **Hexagonal architecture: the original 2005 article**. Humans and Technology Technical Report HaT 2005.02, 4 set. 2005. Disponível em: https://alistair.cockburn.us/hexagonal-architecture. Acesso em: 13 abr. 2026.
+
+### 🔹 Artigo 09: Object Constraint Language (OCL)
+CABOT, Jordi; GOGOLLA, Martin. **Object Constraint Language (OCL): a Definitive Guide**. In: ... Disponível em: https://github.com/karenjoilly11/Resenha-de-Artigos-Projeto-de-Software/blob/main/Artigo-09-Object-Constraint-Language/Object%20Constraint%20Language%20a%20Definitive%20Guide.pdf. Acesso em: 15 abr. 2026.
 
 ---
 <div align="center">
