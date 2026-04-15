@@ -76,7 +76,7 @@ GARLAN, David. **Software Architecture: a Roadmap**. In: INTERNATIONAL CONFERENC
 COCKBURN, Alistair. **Hexagonal architecture: the original 2005 article**. Humans and Technology Technical Report HaT 2005.02, 4 set. 2005. Disponível em: https://alistair.cockburn.us/hexagonal-architecture. Acesso em: 13 abr. 2026.
 
 ### 🔹 Artigo 09: Object Constraint Language (OCL)
-CABOT, Jordi; GOGOLLA, Martin. **Object Constraint Language (OCL): a Definitive Guide**. In: ... Disponível em: https://github.com/karenjoilly11/Resenha-de-Artigos-Projeto-de-Software/blob/main/Artigo-09-Object-Constraint-Language/Object%20Constraint%20Language%20a%20Definitive%20Guide.pdf. Acesso em: 15 abr. 2026.
+CABOT, Jordi; GOGOLLA, Martin. **Object Constraint Language (OCL): a Definitive Guide**. In: ... Disponível em: https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/Object-Constraint-Language-a-Definitive-Guide.pdf. Acesso em: 15 abr. 2026.
 
 ---
 <div align="center">
