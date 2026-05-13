@@ -47,36 +47,23 @@ Cada resenha contém:
 | 7 | **Software Architecture: a Roadmap** | David Garlan | ✅ | [Visualizar](./Artigo-07-Arquitetura-de-Software/Software%20Architecture%20(Arquitetura%20de%20Software).pdf) |
 | 8 | **Arquitetura Hexagonal (Portas e Adaptadores)** | Alistair Cockburn | ✅ | [Visualizar](./Artigo-08-Arquitetura-Hexagonal/Arquitetura%20hexagonal%20(portas%20e%20adaptadores).pdf) |
 | 9 | **Object Constraint Language (OCL)** | Jordi Cabot e Martin Gogolla | ✅ | [Visualizar](./Artigo-09-Object-Constraint-Language/Object%20Constraint%20Language%20a%20Definitive%20Guide.pdf) |
+| 10 | **Design by Contract** | Bertrand Meyer | ✅ | [Visualizar](./Artigo-10-Design-by-Contract/Design%20By%20Contract.pdf) |
 ---
 
 ## 🏗 Referências Bibliográficas (ABNT)
 
-### 🔹 Artigo 01: Microsserviços
-FOWLER, Martin; LEWIS, James. **Microservices**. MartinFowler.com, 2014. Disponível em: [martinfowler.com](https://martinfowler.com/articles/microservices.html).
-
-### 🔹 Artigo 02: Engenharia de Software Moderna
-VALENTE, Marco Tulio. **Engenharia de Software Moderna**. Cap. 7: Arquitetura - Microsserviços. Disponível em: [engsoftmoderna.info](https://engsoftmoderna.info/cap7.html).
-
-### 🔹 Artigo 03: Big Ball of Mud
-FOOTE, Brian; YODER, Joseph. **Big Ball of Mud**. In: PLoP '97/EuroPLoP '97. Monticello: Washington University, 1997. Disponível em: [Repositório GitHub](https://github.com/joaopauloaramuni/projeto-de-software).
-
-### 🔹 Artigo 04: Critérios para Decomposição de Sistemas
-PARNAS, David Lorge. **On the criteria to be used in decomposing systems into modules**. Communications of the ACM, v. 15, n. 12, 1972.
-
-### 🔹 Artigo 05: Padrão de Projeto Facade
-REFACTORING GURU. **Facade**. Disponível em: [refactoring.guru](https://refactoring.guru/pt-br/design-patterns/facade). Acesso em: 25 mar. 2026.
-
-### 🔹 Artigo 06: Protocolo de Contexto de Modelo (MCP)
-HOU, Xinyi et al. **Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions**. In: ANAIS/ PROCEEDINGS DA CONFERÊNCIA. Nova York: ACM, 2025. Disponível em: https://doi.org/10.1145/3796519. Acesso em: 10 abr. 2026.
-
-### 🔹 Artigo 07: Software Architecture: a Roadmap
-GARLAN, David. **Software Architecture: a Roadmap**. In: INTERNATIONAL CONFERENCE ON SOFTWARE ENGINEERING (ICSE), 22., 2000, Limerick. Proceedings of the Conference on the Future of Software Engineering. New York: ACM, 2000. p. 91-101. Disponível em: https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/Software-Architecture-A-Roadmap.pdf. Acesso em: 13 abr. 2026.
-
-### 🔹 Artigo 08: Arquitetura Hexagonal (Portas e Adaptadores)
-COCKBURN, Alistair. **Hexagonal architecture: the original 2005 article**. Humans and Technology Technical Report HaT 2005.02, 4 set. 2005. Disponível em: https://alistair.cockburn.us/hexagonal-architecture. Acesso em: 13 abr. 2026.
-
-### 🔹 Artigo 09: Object Constraint Language (OCL)
-CABOT, Jordi; GOGOLLA, Martin. **Object Constraint Language (OCL): a Definitive Guide**. In: ... Disponível em: https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/Object-Constraint-Language-a-Definitive-Guide.pdf. Acesso em: 15 abr. 2026.
+| ID | Referência | Link |
+|:--:|:-----------|:----:|
+| 01 | FOWLER, Martin; LEWIS, James. **Microservices**. MartinFowler.com, 2014. | [Acessar](https://martinfowler.com/articles/microservices.html) |
+| 02 | VALENTE, Marco Tulio. **Engenharia de Software Moderna**. Cap. 7: Arquitetura - Microsserviços. | [Acessar](https://engsoftmoderna.info/cap7.html) |
+| 03 | FOOTE, Brian; YODER, Joseph. **Big Ball of Mud**. In: PLoP '97, 1997. | [Acessar](https://github.com/joaopauloaramuni/projeto-de-software) |
+| 04 | PARNAS, David Lorge. **On the criteria to be used in decomposing systems into modules**. Communications of the ACM, v. 15, n. 12, 1972. | — |
+| 05 | REFACTORING GURU. **Facade**. Acesso em: 25 mar. 2026. | [Acessar](https://refactoring.guru/pt-br/design-patterns/facade) |
+| 06 | HOU, Xinyi et al. **Model Context Protocol (MCP)**. ACM, 2025. | [Acessar](https://doi.org/10.1145/3796519) |
+| 07 | GARLAN, David. **Software Architecture: a Roadmap**. ICSE 2000. | [Acessar](https://github.com/joaopauloaramuni/projeto-de-software) |
+| 08 | COCKBURN, Alistair. **Hexagonal architecture: the original 2005 article**. HaT 2005.02, 2005. | [Acessar](https://alistair.cockburn.us/hexagonal-architecture) |
+| 09 | CABOT, Jordi; GOGOLLA, Martin. **Object Constraint Language (OCL): a Definitive Guide**. 2012. | [Acessar](https://github.com/joaopauloaramuni/projeto-de-software) |
+| 10 | MEYER, Bertrand. **Design by Contract**. In: Object-Oriented Software Construction. Prentice Hall, 1997. | [Acessar](./Artigo-10-Design-by-Contract/Design%20By%20Contract.pdf) |
 
 ---
 <div align="center">
