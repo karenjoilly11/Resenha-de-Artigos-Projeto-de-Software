@@ -63,7 +63,7 @@ Cada resenha contém:
 | 07 | GARLAN, David. **Software Architecture: a Roadmap**. ICSE 2000. | [Acessar](https://github.com/joaopauloaramuni/projeto-de-software) |
 | 08 | COCKBURN, Alistair. **Hexagonal architecture: the original 2005 article**. HaT 2005.02, 2005. | [Acessar](https://alistair.cockburn.us/hexagonal-architecture) |
 | 09 | CABOT, Jordi; GOGOLLA, Martin. **Object Constraint Language (OCL): a Definitive Guide**. 2012. | [Acessar](https://github.com/joaopauloaramuni/projeto-de-software) |
-| 10 | MEYER, Bertrand. **Design by Contract**. In: Object-Oriented Software Construction. Prentice Hall, 1997. | [Acessar](./Artigo-10-Design-by-Contract/Design%20By%20Contract.pdf) |
+| 10 | MEYER, Bertrand. **Design by Contract**. In: Object-Oriented Software Construction. Prentice Hall, 1997. | [Acessar](https://github.com/joaopauloaramuni/projeto-de-software/blob/main/ARTIGOS/Design-by-Contract.pdf) |
 
 ---
 <div align="center">
